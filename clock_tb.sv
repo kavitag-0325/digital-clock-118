@@ -1,3 +1,11 @@
+// -----------------------------------------------------------------------------
+// File        : clock_tb.sv
+// Author      : Kavita G Panjagall(1BM23EC118)
+// Created     : 2026-01-28
+// Module      : clock_tb
+// Project     : SystemVerilog and Verification (23EC6PE2SV),
+//               Faculty: Prof. Ajaykumar Devarapalli
+// ----------------------------------------------------------------------------- `timescale 1ns/1ps
 `timescale 1ns/1ps
 
 module clock_tb;
