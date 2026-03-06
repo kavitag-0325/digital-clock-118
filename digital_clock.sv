@@ -1,3 +1,11 @@
+// -----------------------------------------------------------------------------
+// File        : digital_clock.sv
+// Author      : Kavita G Panjagall(1BM23EC118)
+// Created     : 2026-01-28
+// Module      : digital_clock
+// Project     : SystemVerilog and Verification (23EC6PE2SV),
+//               Faculty: Prof. Ajaykumar Devarapalli
+// ----------------------------------------------------------------------------- `timescale 1ns/1ps
 `timescale 1ns/1ps
 
 module digital_clock (
